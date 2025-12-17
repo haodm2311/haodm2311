@@ -1,9 +1,9 @@
 # 🏄‍♂️ Hao Dang
 
 - 🔭 I’m currently working on Data Engineer with Java and Python
-- 🌱 I’m currently learning C, Java, Vim, Databases, Linux & DSA
-- 👯 I’m looking to collaborate on Java & Python open source projects
-- 💬 Ask me about C, Java, DSA, Linux & Data Engineering
+- 🌱 I’m currently learning Go, Vim, Databases, Linux & DSA
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Go, DSA, Linux & Data Engineering
 - 📫 How to reach me: haodang2311@gmail.com
 
 #
