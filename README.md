@@ -10,6 +10,7 @@
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -23,4 +24,13 @@
 
 ### 📊 Stats
 
-![HaoDang's GitHub stats](https://github-readme-stats.vercel.app/api?username=haodm2311&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![HaoDang's GitHub stats](https://github-readme-stats.vercel.app/api?username=haodm2311&theme=radical&hide_border=false&include_all_commits=true)
+
+#
+
+### Leetcode stats
+![Rank](https://badges.peiyuan.ch/leetcode/Haodm/ranking?logo=leetcode&label=lovung&color=green)
+![All](https://badges.peiyuan.ch/leetcode/Haodm/solved)
+![Hard](https://badges.peiyuan.ch/leetcode/Haodm/solved?difficulty=hard)
+![Medium](https://badges.peiyuan.ch/leetcode/Haodm/solved?difficulty=medium)
+![Easy](https://badges.peiyuan.ch/leetcode/Haodm/solved?difficulty=easy)
