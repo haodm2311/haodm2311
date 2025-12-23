@@ -29,7 +29,7 @@
 #
 
 ### Leetcode stats
-![Rank](https://badges.peiyuan.ch/leetcode/Haodm/ranking?logo=leetcode&label=lovung&color=green)
+![Rank](https://badges.peiyuan.ch/leetcode/Haodm/ranking?logo=leetcode&label=haodm&color=green)
 ![All](https://badges.peiyuan.ch/leetcode/Haodm/solved)
 ![Hard](https://badges.peiyuan.ch/leetcode/Haodm/solved?difficulty=hard)
 ![Medium](https://badges.peiyuan.ch/leetcode/Haodm/solved?difficulty=medium)
